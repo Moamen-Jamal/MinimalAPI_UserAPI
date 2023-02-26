@@ -1,0 +1,12 @@
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\bin\Debug\net7.0\SAQAYA.UserAPI.Models.deps.json
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\bin\Debug\net7.0\SAQAYA.UserAPI.Models.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\bin\Debug\net7.0\SAQAYA.UserAPI.Models.pdb
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\obj\Debug\net7.0\SAQAYA.UserAPI.Models.csproj.AssemblyReference.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\obj\Debug\net7.0\SAQAYA.UserAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\obj\Debug\net7.0\SAQAYA.UserAPI.Models.AssemblyInfoInputs.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\obj\Debug\net7.0\SAQAYA.UserAPI.Models.AssemblyInfo.cs
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\obj\Debug\net7.0\SAQAYA.UserAPI.Models.csproj.CoreCompileInputs.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\obj\Debug\net7.0\SAQAYA.UserAPI.Models.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\obj\Debug\net7.0\refint\SAQAYA.UserAPI.Models.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\obj\Debug\net7.0\SAQAYA.UserAPI.Models.pdb
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Models\obj\Debug\net7.0\ref\SAQAYA.UserAPI.Models.dll

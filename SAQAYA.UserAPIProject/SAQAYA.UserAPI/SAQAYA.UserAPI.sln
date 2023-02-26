@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAQAYA.UserAPI.Web", "SAQAYA.UserAPI.Web\SAQAYA.UserAPI.Web.csproj", "{5F736743-281C-4B89-B60D-076CD1C71B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAQAYA.UserAPI.Entities", "SAQAYA.UserAPI.Entities\SAQAYA.UserAPI.Entities.csproj", "{4004F227-C6EC-441F-90CB-CD558BBC81A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAQAYA.UserAPI.Repositories", "SAQAYA.UserAPI.Repositories\SAQAYA.UserAPI.Repositories.csproj", "{E3124DE2-2B23-4DB9-ACFC-DB4A299CAEA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAQAYA.UserAPI.Models", "SAQAYA.UserAPI.Models\SAQAYA.UserAPI.Models.csproj", "{168EC93D-5FB3-4524-AF6A-095047F8F199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAQAYA.UserAPI.Services", "SAQAYA.UserAPI.Services\SAQAYA.UserAPI.Services.csproj", "{0CBBA1CB-810D-4F6E-9E3E-4AD0E83CFE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAQAYA.UserAPI.SecurityHelpers", "SAQAYA.UserAPI.SecurityHelpers\SAQAYA.UserAPI.SecurityHelpers.csproj", "{44A5F5CF-9FDC-412E-BF56-9818D93F2E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F736743-281C-4B89-B60D-076CD1C71B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F736743-281C-4B89-B60D-076CD1C71B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F736743-281C-4B89-B60D-076CD1C71B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F736743-281C-4B89-B60D-076CD1C71B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4004F227-C6EC-441F-90CB-CD558BBC81A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4004F227-C6EC-441F-90CB-CD558BBC81A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4004F227-C6EC-441F-90CB-CD558BBC81A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4004F227-C6EC-441F-90CB-CD558BBC81A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3124DE2-2B23-4DB9-ACFC-DB4A299CAEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3124DE2-2B23-4DB9-ACFC-DB4A299CAEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3124DE2-2B23-4DB9-ACFC-DB4A299CAEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3124DE2-2B23-4DB9-ACFC-DB4A299CAEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168EC93D-5FB3-4524-AF6A-095047F8F199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168EC93D-5FB3-4524-AF6A-095047F8F199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168EC93D-5FB3-4524-AF6A-095047F8F199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168EC93D-5FB3-4524-AF6A-095047F8F199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBBA1CB-810D-4F6E-9E3E-4AD0E83CFE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBBA1CB-810D-4F6E-9E3E-4AD0E83CFE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBBA1CB-810D-4F6E-9E3E-4AD0E83CFE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBBA1CB-810D-4F6E-9E3E-4AD0E83CFE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A5F5CF-9FDC-412E-BF56-9818D93F2E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A5F5CF-9FDC-412E-BF56-9818D93F2E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A5F5CF-9FDC-412E-BF56-9818D93F2E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A5F5CF-9FDC-412E-BF56-9818D93F2E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B407CA23-DD82-4F85-9241-63C0250DBA2F}
+	EndGlobalSection
+EndGlobal

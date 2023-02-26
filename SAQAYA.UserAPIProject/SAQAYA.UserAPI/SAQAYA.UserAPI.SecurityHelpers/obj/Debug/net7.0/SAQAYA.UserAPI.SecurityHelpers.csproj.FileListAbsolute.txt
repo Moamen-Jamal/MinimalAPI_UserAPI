@@ -1,0 +1,15 @@
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\bin\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.deps.json
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\bin\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\bin\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.pdb
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\bin\Debug\net7.0\SAQAYA.UserAPI.Models.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\bin\Debug\net7.0\SAQAYA.UserAPI.Models.pdb
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.csproj.AssemblyReference.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.GeneratedMSBuildEditorConfig.editorconfig
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.AssemblyInfoInputs.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.AssemblyInfo.cs
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.csproj.CoreCompileInputs.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.csproj.CopyComplete
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\refint\SAQAYA.UserAPI.SecurityHelpers.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\SAQAYA.UserAPI.SecurityHelpers.pdb
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.SecurityHelpers\obj\Debug\net7.0\ref\SAQAYA.UserAPI.SecurityHelpers.dll

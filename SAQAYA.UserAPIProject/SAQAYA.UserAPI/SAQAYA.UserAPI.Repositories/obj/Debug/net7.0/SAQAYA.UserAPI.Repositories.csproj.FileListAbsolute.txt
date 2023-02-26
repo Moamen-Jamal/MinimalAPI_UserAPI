@@ -1,0 +1,17 @@
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\bin\Debug\net7.0\SAQAYA.UserAPI.Repositories.deps.json
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\bin\Debug\net7.0\SAQAYA.UserAPI.Repositories.runtimeconfig.json
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\bin\Debug\net7.0\SAQAYA.UserAPI.Repositories.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\bin\Debug\net7.0\SAQAYA.UserAPI.Repositories.pdb
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\bin\Debug\net7.0\SAQAYA.UserAPI.Entities.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\bin\Debug\net7.0\SAQAYA.UserAPI.Entities.pdb
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\SAQAYA.UserAPI.Repositories.csproj.AssemblyReference.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\SAQAYA.UserAPI.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\SAQAYA.UserAPI.Repositories.AssemblyInfoInputs.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\SAQAYA.UserAPI.Repositories.AssemblyInfo.cs
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\SAQAYA.UserAPI.Repositories.csproj.CoreCompileInputs.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\SAQAYA.UserAPI.Repositories.csproj.CopyComplete
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\SAQAYA.UserAPI.Repositories.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\refint\SAQAYA.UserAPI.Repositories.dll
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\SAQAYA.UserAPI.Repositories.pdb
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\SAQAYA.UserAPI.Repositories.genruntimeconfig.cache
+H:\SAQAYA.UserAPI\SAQAYA.UserAPI.Repositories\obj\Debug\net7.0\ref\SAQAYA.UserAPI.Repositories.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SAQAYA.UserAPI.Web.props" />
+</Project>
